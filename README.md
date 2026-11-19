@@ -8,4 +8,4 @@ Truth and Dare is an Android app that spins a bottle to choose who takes the nex
 2. Open this repository in Android Studio and let Gradle sync.
 3. Run the `app` configuration on an emulator or device running Android 5.0 (API 21) or later.
 
-To build a debug APK from the repository root, run `bash gradlew assembleDebug` on macOS or Linux, or `gradlew.bat assembleDebug` on Windows. The APK is written to `app/build/outputs/apk/debug/`.
+To build a debug APK from the repository root, run `./gradlew assembleDebug` on macOS or Linux, or `gradlew.bat assembleDebug` on Windows. The APK is written to `app/build/outputs/apk/debug/`.
